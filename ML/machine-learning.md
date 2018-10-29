@@ -5,7 +5,8 @@
 **Contact: Dora Dong**
 
 Welcome to ML study group! 
-This study group will use Machine Learning lectures at Coursera as a reference. We are going to spend 1.5 - 2 hours every week to discuss the lectures and work on assignments, and do some projects together. The goal is to enhance the understanding of the theory, as well as gaining hands-on experiences. 
+
+This study group will use Machine Learning course at Coursera.org as a reference. We are going to spend 1.5 - 2 hours every week to discuss the lectures and work on assignments, and do some projects together. The goal is to enhance the understanding of the theory, as well as gaining hands-on experiences. 
 
 Topics include: 
   - Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks)
