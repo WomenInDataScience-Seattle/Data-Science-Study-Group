@@ -1,4 +1,4 @@
-# Machine Learning Study Group (@WiDS)
+# Machine Learning Study Group (@widssea)
 
 **[Coursera](https://www.coursera.org/learn/machine-learning) by Andrew Ng**
 
@@ -51,17 +51,17 @@ Happy learning!
 
 | Date | Time | Address | Agenda | Notes | 
 |:---|:---|:---|:---|:---|
-| 11/03/2018| | |call for volunteers | Announce schedule at WiDS | 
-| 11/11/2018| 3:30pm - 4:30pm | TBD | wk1: Introduction & Discuss Agenda |  | 
-| 11/18/2018| TBD | TBD | wk2: Linear Regression with Multiple Variables, wk3: Logistic Regression |  | 
-| 12/2//2018| TBD | TBD | wk4: Neural Networks: Representation |  | 
-| 12/9/2018| TBD | TBD | wk5: Neural Networks: Learning |  | 
-| 12/16/2018| TBD | TBD | wk6: Advice for Applying Machine Learning |  | 
-| 12/30/2018| TBD | TBD | wk7: Support Vector Machines |  | 
-| 1/6/2019 | | | wk8: Unsupervised Learning | |
-| 1/13/2019 | | | wk9: Anomaly Detection | |
-| 1/20/2019 | | | wk10: Large Scale Machine Learning | |
-| 1/27/2019 | | | wk11: Application Example: Photo OCR | |
+| 11/11/2018| | |call for volunteers | Announce schedule at WiDS | 
+| 11/18/2018| 3:30pm - 4:30pm | TBD | wk1: Introduction & Discuss Agenda |  | 
+| 12/2//2018| TBD | TBD | wk2: Linear Regression with Multiple Variables, wk3: Logistic Regression |  | 
+| 12/9//2018| TBD | TBD | wk4: Neural Networks: Representation |  | 
+| 12/16/2018| TBD | TBD | wk5: Neural Networks: Learning |  | 
+| 12/30/2018| TBD | TBD | wk6: Advice for Applying Machine Learning |  | 
+| 1/6/2019 | TBD | TBD | wk7: Support Vector Machines |  | 
+| 1/13/2019 | | | wk8: Unsupervised Learning | |
+| 1/20/2019 | | | wk9: Anomaly Detection | |
+| 1/27/2019 | | | wk10: Large Scale Machine Learning | |
+| 2/3/2019 | | | wk11: Application Example: Photo OCR | |
 
 *Note that the date and time will be changed depending on people's schedule.
 
