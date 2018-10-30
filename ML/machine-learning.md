@@ -51,7 +51,7 @@ Happy learning!
 
 | Date | Time | Address | Agenda | Notes | 
 |:---|:---|:---|:---|:---|
-| 11/11/2018| | |call for volunteers | Announce schedule at WiDS | 
+| 11/12/2018| | |call for volunteers | Announce schedule @widssea meetup | 
 | 11/18/2018| 3:30pm - 4:30pm | TBD | wk1: Introduction & Discuss Agenda |  | 
 | 12/2//2018| TBD | TBD | wk2: Linear Regression with Multiple Variables, wk3: Logistic Regression |  | 
 | 12/9//2018| TBD | TBD | wk4: Neural Networks: Representation |  | 
