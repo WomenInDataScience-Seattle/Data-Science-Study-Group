@@ -18,6 +18,15 @@
   - No feedback based on the prediction results.
     - Eg, organize computing clusters, social network analysis, market segmentation, astronomical data analysis, the "[Cocktail Party Algorithm](https://en.wikipedia.org/wiki/Cocktail_party_effect)"
 
+## Cost Funcation and Model
+
+- Training set (input, feature) is represented as x(<sup>i</sup>). Output is represented as y(<sup>i</sup>). i=1,...,m, which is an index ti the training set. 
+- To describe the supervised learning problem slightly more formally, our goal is, given a training set, to learn a function h : X → Y so that h(x) is a “good” predictor for the corresponding value of y. 
+
+- Cost function We can measure the accuracy of our hypothesis function by using a cost function. This takes an average difference (actually a fancier version of an average) of all the results of the hypothesis with inputs from x's and the actual output y's.
+  - Linear regression: Squared error function (Mean squared error, MSE)
+  - 
+
 
 # Softwares 
 
