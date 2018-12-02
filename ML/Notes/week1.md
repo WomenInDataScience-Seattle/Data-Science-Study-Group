@@ -23,9 +23,29 @@
 - Training set (input, feature) is represented as x(<sup>i</sup>). Output is represented as y(<sup>i</sup>). i=1,...,m, which is an index ti the training set. 
 - To describe the supervised learning problem slightly more formally, our goal is, given a training set, to learn a function h : X → Y so that h(x) is a “good” predictor for the corresponding value of y. 
 
-- Cost function We can measure the accuracy of our hypothesis function by using a cost function. This takes an average difference (actually a fancier version of an average) of all the results of the hypothesis with inputs from x's and the actual output y's.
+- [Cost function](https://www.coursera.org/learn/machine-learning/supplement/u3qF5/cost-function-intuition-i): We can measure the accuracy of our hypothesis function by using a cost function. This takes an average difference (actually a fancier version of an average) of all the results of the hypothesis with inputs from x's and the actual output y's.
   - Linear regression: Squared error function (Mean squared error, MSE)
-  - 
+  - In linear regression, finding the global minimun of J(theta) corresponds to find the best slope of the fit.  
+
+## Gradient Descent (GD)
+
+Gradient descent is an optimization algorithm used to minimize some function by iteratively moving in the direction of steepest descent as defined by the negative of the gradient. In machine learning, we use gradient descent to update the parameters of our model. Parameters refer to coefficients in Linear Regression and weights in neural networks.
+  - Learning rate (what if it is too small, too large or fixed?)
+  - Simultaneously update thetas
+  - Batch gradient descent. "Batch" means each step of GD uses all training samples.
+  - Convex function, i.e., bowl shape function, only has global minimun (no local minima), which is the cost function used in the **linear regression**.
+  
+
+ 
+Reference: https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html
+https://www.coursera.org/learn/machine-learning/supplement/2GnUg/gradient-descent
+
+
+ ## Linear Algebra
+ 
+ https://www.coursera.org/learn/machine-learning/supplement/xRMqw/lecture-slides
+ 
+
 
 
 # Softwares 
@@ -33,12 +53,14 @@
   - Octave 
   - matlab
     
+    Feel free to use R or python! :-D
+    
 # Resources 
 
   - [Forum](https://www.coursera.org/learn/machine-learning/discussions/weeks)
   - [Discussion board](https://www.coursera.org/learn/machine-learning/discussions)
   - [Meet and greet](https://www.coursera.org/learn/machine-learning/discussions/forums/FsTdcb2TEeS_cyIACw-CIA?page=1&sort=lastActivityAtDesc)
-  - 
+  - Slides are attached at the end of each session
 
 
   
