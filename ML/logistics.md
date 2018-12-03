@@ -1,27 +1,26 @@
-# Logistics
-
-This file presents the logistics of the machine learning coursera study group. This will be edited based on the discussion from the first week. 
+# Logistics 
+(Version 1.0)
 
 ## General Agenda
 
-1. A volunteer will summarize the course. 
-2. Discuss quiz, excises, and questions at [here](https://github.com/ddong63/Data-Science/blob/master/ML/Q%26A.md) 
-3. Discuss projects (Let's plan to start this session on the 4th week)
-4. Networking
+1. Summarize the course/topics (5-10 min). Volunteers needed to lead this section.    
+2. Share experiences of the technique (30 min). Contact me if you are interested in a demo to the group.
+3. Discuss the excises, questions, and thoughts in the course (30min). Questions will be updated at [here](https://github.com/ddong63/Data-Science/blob/master/ML/Q%26A.md)
+4. Discuss kaggle/project updates.
 
 ## Time
 
-We are going to meet for XX (1-1.5?) hours every week. 
+The study group is scheduled from 2:30 to 4:30 every Sunday. Detailed time schedule will be updated every Wednesday at [here](https://github.com/ddong63/Data-Science/blob/master/ML/agenda-study-group.md). Check the time and location before you come.
 
 ## Location
 
-Is there a better location?
+Location will be posted the Friday before the meetup. Emails, slack message and [github page](https://github.com/ddong63/Data-Science/blob/master/ML/agenda-study-group.md) will be updated.   
 
 ## Volunteer
  
-- Venue coordinator * 1-2
-- Maintain documents 
-- Maintain slack channel
+- Volunteers needed to take the lead the summary session of the weekly topic. 
 
 ## Suggestions
+
+Email me at doradong7@gmail.com, or post messages through slack channel if there are questions, comments or concerns. 
 
