@@ -37,32 +37,32 @@ Happy learning!
 ## Available resource:
 
 **Dataset and projects**
-[Kaggle](https://www.kaggle.com)
-[UCI ML Dataset](http://archive.ics.uci.edu/ml/index.php)
-[Amazon Transcribe – Automatic Speech Recognition](https://aws.amazon.com/transcribe/)
-[Tensorflow-for-Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#5) 
+  - [Kaggle](https://www.kaggle.com)
+  - [UCI ML Dataset](http://archive.ics.uci.edu/ml/index.php)
+  - [Amazon Transcribe – Automatic Speech Recognition](https://aws.amazon.com/transcribe/)
+  - [Tensorflow-for-Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#5) 
 
 **Blogs**
-https://machinelearningmastery.com/blog/
-https://towardsdatascience.com/
-https://www.kdnuggets.com/
-https://www.dataquest.io/blog/
-https://dataskeptic.com/
+  - https://machinelearningmastery.com/blog/
+  - https://towardsdatascience.com/
+  - https://www.kdnuggets.com/
+  - https://www.dataquest.io/blog/
+  - https://dataskeptic.com/
 
 **Vedios**
-[Caltech course](https://work.caltech.edu/telecourse.html)
-[CS109-Harvard](http://cs109.github.io/2015/pages/videos.html)
-[DataCamp](https://www.datacamp.com/)
-[YouTube](https://www.youtube.com/user/kaggledotcom/playlists)
+  - [Caltech course](https://work.caltech.edu/telecourse.html)
+  - [CS109-Harvard](http://cs109.github.io/2015/pages/videos.html)
+  - [DataCamp](https://www.datacamp.com/)
+  - [YouTube](https://www.youtube.com/user/kaggledotcom/playlists)
 
 **Textbook and materials**
-[Textbook](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-[Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+  - [Textbook](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+  - [Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 
 **Conferences and events**
-[Applied Advanced Analytics with R](http://www.cvent.com/events/applied-advanced-analytics-with-r-feb-28-mar-1-2019/event-summary-37ae6734473a4c079aabbb6506b22bdf.aspx)
-[Conference of Statistical Practice](https://ww2.amstat.org/meetings/csp/2019/index.cfm)
-
+  - [Applied Advanced Analytics with R](http://www.cvent.com/events/applied-advanced-analytics-with-r-feb-28-mar-1-2019/event-summary-37ae6734473a4c079aabbb6506b22bdf.aspx)
+  - [Conference of Statistical Practice](https://ww2.amstat.org/meetings/csp/2019/index.cfm)
+  
 ## Tasks assignment
 
 | Task | Volunteer | Slack-ID | 
