@@ -34,8 +34,17 @@ Gradient descent is an optimization algorithm used to minimize some function by 
   - Simultaneously update thetas
   - Batch gradient descent. "Batch" means each step of GD uses all training samples.
   - Convex function, i.e., bowl shape function, only has global minimun (no local minima), which is the cost function used in the **linear regression**.
-  
+  - Automatic convergence test: declare convergence if J(theta) decreases than a cutoff in one iteration.
+  - Plot J(theta) vs. N. of iteration and define where it converges. 
+  - When GD does not working properly, try a smaller alpha to debug.
 
+## Multivariate regression
+
+  - GD of multivariate regression
+  - Polynomial regression
+    - In quadratic and cubic fit, the feature scaling can be really important.
+  - Calculate the parameters: partial derivatives.
+  
  
 Reference: 
   - https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html
