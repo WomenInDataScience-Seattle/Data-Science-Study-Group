@@ -83,8 +83,8 @@ Happy learning!
 | 1/6/2019| 2:30pm - 4:30pm | Address: SPL-fremont branch: 731 N 35th St, Seattle, WA 98103  | wk5: Neural Networks: Learning | 1. Summary of the course; 2. Exploratory analysis using the movie data | 
 | 1/13/2019| **3:30pm - 4:30pm** | Address: SPL-fremont branch: 731 N 35th St, Seattle, WA 98103  | wk6: Advice for Applying Machine Learning |  | 
 | 1/27/2019 | 2:30pm - 4:30pm | SPL - Queen Anne Library | wk7: Support Vector Machines |  | 
-| 2/3/2019 | 2:30pm - 3:30pm |  SPL - Douglass-Truth Library | wk8: Unsupervised Learning | |
-| 2/10/2019 |2:30pm - 3:30pm  | | wk9: Anomaly Detection | |
+| 2/3/2019 | 2:30pm - 4:30pm |  SPL - Douglass-Truth Library | wk8: Unsupervised Learning | |
+| 2/10/2019 |2:30pm - 4:30pm  | SPL - Greenwood Branch| wk9: Anomaly Detection | |
 | 2/17/2019 |2:30pm - 3:30pm  | | wk10: Large Scale Machine Learning | |
 | 2/24/2019 |2:30pm - 3:30pm  | | wk11: Application Example: Photo OCR | |
 
