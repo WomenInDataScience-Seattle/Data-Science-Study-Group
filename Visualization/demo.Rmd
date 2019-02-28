@@ -56,7 +56,7 @@ DT::datatable(df, filter = 'top', options = list(pageLength = 10, autoWidth = T)
 ```
 
 
-Boxplot 
+Group Comparision 
 =======================================================================
 
 Column {data-width=800}
