@@ -120,3 +120,26 @@ qplot(data = d, x = mpg, y = wt) %>%
   highlight("plotly_selected")
 ```
 
+Lineplot Visualization
+=======================================================================
+
+Column {data-width=800}
+-----------------------------------------------------------------------
+
+### Trend Plot 
+
+```{r}
+today <- Sys.Date()
+tm <- seq(0, 600, by = 10)
+x <- rep(today - tm, 2)
+y <- c(rnorm(length(x) / 2, mean = 0, sd = 1), 
+       rnorm(length(x) / 2, mean = 1.5, sd = 0.5))
+g <- c(rep('A', 61), rep('B', 61))
+  
+p <- plot_ly(x = ~x, 
+             y = ~y, 
+             color = ~g,
+             mode = 'lines')
+p
+```
+
