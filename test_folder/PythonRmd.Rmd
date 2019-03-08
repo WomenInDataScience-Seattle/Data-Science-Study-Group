@@ -1,0 +1,21 @@
+---
+title: "Untitled"
+output: github_document
+---
+
+
+
+```{python}
+def hello_world(name):
+    print("hello world! My name is {}".format(name))
+    
+hello_world("Dora")
+x = hello_world
+x("Scott")
+
+def greetings(func, name):
+    func(name)
+
+greetings(hello_world, "Emily")
+```
+
