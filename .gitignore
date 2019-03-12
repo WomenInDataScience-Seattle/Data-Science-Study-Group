@@ -2,3 +2,14 @@
 .Rhistory
 .RData
 .Ruserdata
+*.Rproj
+*.RData
+*.sas7bdat
+*.csv
+*.xlsx
+*.fcs
+*.xml
+*.RData
+*.acn
+*.ist
+*/Thumbs.db
