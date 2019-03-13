@@ -13,3 +13,5 @@
 *.acn
 *.ist
 */Thumbs.db
+/Visualization
+/test_folder
