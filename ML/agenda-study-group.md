@@ -1,4 +1,4 @@
-# Machine Learning Study Group (@widssea)
+﻿# Machine Learning Study Group (@widssea)
 
 **[Coursera](https://www.coursera.org/learn/machine-learning) by Andrew Ng**
 
@@ -48,8 +48,9 @@ Happy learning!
   - https://www.kdnuggets.com/
   - https://www.dataquest.io/blog/
   - https://dataskeptic.com/
+  - https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement
 
-**Vedios**
+**Videos**
   - [Caltech course](https://work.caltech.edu/telecourse.html)
   - [CS109-Harvard](http://cs109.github.io/2015/pages/videos.html)
   - [DataCamp](https://www.datacamp.com/)
