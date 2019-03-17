@@ -1,6 +1,6 @@
 # Seattle Deep Learning Study Group with Seattle WiDS 
 
-**[Seattle WiDS meetup page](https://www.meetup.com/Seattle-WiDS-Meetup/)**
+**[Seattle WiDS meetup page](https://www.meetup.com/Seattle-WiDS-Meetup/)**  
 **[Coursera Deep Learning Specialization - Andrew Ng](https://www.coursera.org/specializations/deep-learning)**
 
 ## Welcome to Seattle WiDS deep learning study group!
@@ -14,7 +14,7 @@ We will be meeting in the study area of the lobby of Qwest Plaza:
 1600 Seventh Ave 
 Seattle, WA 98101 
 
-**Course Overview:**
+## Course Overview:
 
 There are five courses in this specialization: 
 
@@ -30,7 +30,7 @@ From the Coursera website:
 
 You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach."
 
-## Available resource:
+## Available resources:
 
 **Blogs**
   - https://machinelearningmastery.com/blog/
