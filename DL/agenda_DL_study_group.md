@@ -4,7 +4,7 @@
 **[Coursera Deep Learning Specialization - Andrew Ng](https://www.coursera.org/specializations/deep-learning)**
 
 Contacts:  
-**Dora Dong <doradong7@gmail.com>**
+**Dora Dong <doradong7@gmail.com>**  
 **Elyse Kadokura <elysekad@gmail.com>**
 
 ## Welcome to Seattle WiDS deep learning study group!
