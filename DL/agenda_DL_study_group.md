@@ -34,7 +34,9 @@ From the Coursera website:
 
 You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach."
 
-## Available resources:
+## Resources:
+
+I'll keep adding to these:
 
 **Blogs**
   - https://machinelearningmastery.com/blog/
@@ -42,6 +44,21 @@ You will work on case studies from healthcare, autonomous driving, sign language
   - https://www.kdnuggets.com/
   - https://www.dataquest.io/blog/
   - https://dataskeptic.com/
+  - https://www.analyticsvidhya.com/blog/
+
+**YouTube**
+  - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+  - [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/videos)
+  - [deeplizard Deep Learning playlist](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+
+**Books**
+  - [Goodfellow, Yoshua Bengio, and Aaron Courville's Deep Learning](http://www.deeplearningbook.org/)
+  - [Michael Nielsen's "Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/)
+
+**Courses**  
+  - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+  - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+  - [fast.ai](https://course.fast.ai/)
 
 ## Schedule
 
