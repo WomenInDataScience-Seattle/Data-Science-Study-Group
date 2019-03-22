@@ -9,7 +9,7 @@ Contacts:
 
 ## Welcome to Seattle WiDS deep learning study group!
 
-The purpose of this meetup is to complete Andrew Ng's deep learning Coursera specialization together. We are going to spend 1.5 - 2 hours every Sunday to go over the course content and also hopefully apply the methods learned in these courses to our own projects. The goal is to enhance the understanding of the theory, as well as gaining hands-on experiences. If you want to receive a certificate for the course, the cost is $49 a month. You can audit the course for free. 
+The purpose of this meetup is to complete Andrew Ng's deep learning Coursera specialization together. We are going to spend 1.5 - 2 hours every Tuesday to go over the course content and also hopefully apply the methods learned in these courses to our own projects. The goal is to enhance the understanding of the theory, as well as gaining hands-on experiences. If you want to receive a certificate for the course, the cost is $49 a month. You can audit the course for free. 
 
 **Location:**
 
