@@ -4,7 +4,7 @@
 **[Coursera Deep Learning Specialization - Andrew Ng](https://www.coursera.org/specializations/deep-learning)**
 
 Contacts:  
-**Dora Dong <doradong7@gmail.com>**
+**Dora Dong <doradong7@gmail.com>**  
 **Elyse Kadokura <elysekad@gmail.com>**
 
 ## Welcome to Seattle WiDS deep learning study group!
@@ -65,18 +65,18 @@ I'll keep adding to these:
 | Date | Time | Agenda |
 |:---|:---|:---|
 | Tues 3/24/19 | | Announce work group to larger SeaWiDS group |
-| Tues 4/2/19 | 6:00-8:00pm | Introductions, go over logistics, Intro to deep learning Weeks 1 & 2: Introduction to Deep Learning & Neural Networks Basics |  
-| Tues 4/9/19  | 6:00-8:00pm | Intro to deep learning Week 3: Shallow neural networks |
-| Tues 4/16/19 | 6:00-8:00pm | Intro to deep learning Week 4: Deep Neural Networks |
-| Tues 4/23/19 | 6:00-8:00pm | Improving Deep Neural Networks Week 1: Practical aspects of Deep Learning |
-| Tues 4/30/19 | 6:00-8:00pm | Improving Deep Neural Networks Week 2: Optimization algorithms |
-| Tues 5/7/19 | 6:00-8:00pm | Improving Deep Neural Networks Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks |
-| Tues 5/14/19 | 6:00-8:00pm | Structuring Machine Learning Projects Weeks 1 & 2: ML Strategy 1 & 2 |
-| Tues 5/21/19 | 6:00-8:00pm | Convolutional Neural Networks Week 1: Foundations of Convolutional Neural Networks |
-| Tues 5/28/19 | 6:00-8:00pm | Convolutional Neural Networks Week 2: Deep convolutional models: case studies |
-| Tues 6/4/19 | 6:00-8:00pm | Convolutional Neural Networks Week 3: Object detection |
-| Tues 6/11/19 | 6:00-8:00pm | Convolutional Neural Networks Week 4: Special applications: Face recognition & Neural style transfer |
-| Tues 6/18/19 | 6:00-8:00pm | Sequence Models Week 1: Recurrent Neural Networks |
-| Tues 7/25/19 | 6:00-8:00pm | Sequence Models Week 2: Natural Language Processing & Word Embeddings |
-| Tues 7/2/19 | 6:00-8:00pm | Sequence Models Week 3: Sequence models & Attention mechanism |
+| Tues 4/2/19 | 5:30-7:00pm | Introductions, go over logistics, Intro to deep learning Weeks 1 & 2: Introduction to Deep Learning & Neural Networks Basics |  
+| Tues 4/9/19  | 5:30-7:00pm | Intro to deep learning Week 3: Shallow neural networks |
+| Tues 4/16/19 | 5:30-7:00pm | Intro to deep learning Week 4: Deep Neural Networks |
+| Tues 4/23/19 | 5:30-7:00pm | Improving Deep Neural Networks Week 1: Practical aspects of Deep Learning |
+| Tues 4/30/19 | 5:30-7:00pm | Improving Deep Neural Networks Week 2: Optimization algorithms |
+| Tues 5/7/19 | 5:30-7:00pm | Improving Deep Neural Networks Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks |
+| Tues 5/14/19 | 5:30-7:00pm | Structuring Machine Learning Projects Weeks 1 & 2: ML Strategy 1 & 2 |
+| Tues 5/21/19 | 5:30-7:00pm | Convolutional Neural Networks Week 1: Foundations of Convolutional Neural Networks |
+| Tues 5/28/19 | 5:30-7:00pm | Convolutional Neural Networks Week 2: Deep convolutional models: case studies |
+| Tues 6/4/19 | 5:30-7:00pm | Convolutional Neural Networks Week 3: Object detection |
+| Tues 6/11/19 | 5:30-7:00pm | Convolutional Neural Networks Week 4: Special applications: Face recognition & Neural style transfer |
+| Tues 6/18/19 | 5:30-7:00pm | Sequence Models Week 1: Recurrent Neural Networks |
+| Tues 7/25/19 | 5:30-7:00pm | Sequence Models Week 2: Natural Language Processing & Word Embeddings |
+| Tues 7/2/19 | 5:30-7:00pm | Sequence Models Week 3: Sequence models & Attention mechanism |
 
