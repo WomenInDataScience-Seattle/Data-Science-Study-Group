@@ -13,10 +13,10 @@ The purpose of this meetup is to complete Andrew Ng's deep learning Coursera spe
 
 **Location:**
 
-We will be meeting in the study area of the lobby of Qwest Plaza:
+We will meet on the 5th floor suit 500 at:
 
-1600 Seventh Ave   
-Seattle, WA 98101 
+411 1st Ave S,
+Seattle, WA 98104
 
 ## Course Overview:
 
