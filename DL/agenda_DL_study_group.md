@@ -15,7 +15,7 @@ The purpose of this meetup is to complete Andrew Ng's deep learning Coursera spe
 
 We will meet on the 5th floor suite 500 at:
 
-411 1st Ave S,
+411 1st Ave S,  
 Seattle, WA 98104
 
 Someone will be waiting by the elevators until 5:40pm. If you arrive after this time please message one of the organizers on meetup or slack and we will come get you.
