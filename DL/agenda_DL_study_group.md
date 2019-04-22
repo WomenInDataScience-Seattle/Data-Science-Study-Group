@@ -48,10 +48,14 @@ I'll keep adding to these:
   - https://dataskeptic.com/
   - https://www.analyticsvidhya.com/blog/
 
+**Github**
+  - [Hvass-Labs TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) 
+
 **YouTube**
   - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
   - [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/videos)
   - [deeplizard Deep Learning playlist](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+  - [Hvass Laboratories TensorFlow Tutorials](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 
 **Books**
   - [Goodfellow, Yoshua Bengio, and Aaron Courville's Deep Learning](http://www.deeplearningbook.org/)
