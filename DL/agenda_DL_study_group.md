@@ -84,8 +84,9 @@ I'll keep adding to these:
 | Tues 6/11/19 | 5:30-7:00pm | Sequence Models Week 1: Homework |
 | Tues 6/18/19 | 5:30-7:00pm | Sequence Models Week 2: Natural Language Processing & Word Embeddings |
 | Tues 6/25/19 | 5:30-7:00pm | Sequence Models Week 3: Sequence models & Attention mechanism |
-| Tues 7/2/19 | 5:30-7:00pm | Convolutional Neural Networks Week 2: Deep convolutional models: case studies |
-| Tues 7/9/19 | 5:30-7:00pm | Convolutional Neural Networks Week 3: Object detection |
-| Tues 7/16/19 | 5:30-7:00pm | Convolutional Neural Networks Week 4: Special applications: Face recognition & Neural style transfer |
+| Tues 7/2/19 | 5:30-7:00pm | Convolutional Neural Networks Week 1: Foundations of Convulational Neural Networks
+| Tues 7/9/19 | 5:30-7:00pm | Convolutional Neural Networks Week 2: Deep convolutional models: case studies |
+| Tues 7/16/19 | 5:30-7:00pm | Convolutional Neural Networks Week 3: Object detection |
+| Tues 7/23/19 | 5:30-7:00pm | Convolutional Neural Networks Week 4: Special applications: Face recognition & Neural style transfer |
 
 
