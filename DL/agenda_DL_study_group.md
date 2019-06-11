@@ -80,10 +80,12 @@ I'll keep adding to these:
 | Tues 5/14/19 | 5:30-7:00pm | Structuring Machine Learning Projects Week 1: ML Strategy 1 |
 | Tues 5/21/19 | 5:30-7:00pm | Structuring Machine Learning Projects Week 2: ML Strategy 2 |
 | Tues 5/28/19 | 5:30-7:00pm | Convolutional Neural Networks Week 1: Foundations of Convolutional Neural Networks |
-| Tues 6/4/19 | 5:30-7:00pm | Convolutional Neural Networks Week 2: Deep convolutional models: case studies |
-| Tues 6/11/19 | 5:30-7:00pm | Convolutional Neural Networks Week 3: Object detection |
-| Tues 6/18/19 | 5:30-7:00pm | Convolutional Neural Networks Week 4: Special applications: Face recognition & Neural style transfer |
-| Tues 6/25/19 | 5:30-7:00pm | Sequence Models Week 1: Recurrent Neural Networks |
-| Tues 7/2/19 | 5:30-7:00pm | Sequence Models Week 2: Natural Language Processing & Word Embeddings |
-| Tues 7/9/19 | 5:30-7:00pm | Sequence Models Week 3: Sequence models & Attention mechanism |
+| Tues 6/4/19 | 5:30-7:00pm | Sequence Models Week 1: Recurrent Neural Networks |
+| Tues 6/11/19 | 5:30-7:00pm | Sequence Models Week 1: Homework |
+| Tues 6/18/19 | 5:30-7:00pm | Sequence Models Week 2: Natural Language Processing & Word Embeddings |
+| Tues 6/25/19 | 5:30-7:00pm | Sequence Models Week 3: Sequence models & Attention mechanism |
+| Tues 7/2/19 | 5:30-7:00pm | Convolutional Neural Networks Week 2: Deep convolutional models: case studies |
+| Tues 7/9/19 | 5:30-7:00pm | Convolutional Neural Networks Week 3: Object detection |
+| Tues 7/16/19 | 5:30-7:00pm | Convolutional Neural Networks Week 4: Special applications: Face recognition & Neural style transfer |
+
 
